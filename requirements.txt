@@ -1,0 +1,7 @@
+PyMuPDF
+tqdm
+transformers
+datasets
+google-cloud-storage
+torch
+coiled
